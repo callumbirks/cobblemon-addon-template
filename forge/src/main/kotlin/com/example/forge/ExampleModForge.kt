@@ -1,4 +1,4 @@
-package uk.co.callumbirks.forge
+package com.example.forge
 
 import com.example.*
 import net.minecraft.item.ItemGroup
