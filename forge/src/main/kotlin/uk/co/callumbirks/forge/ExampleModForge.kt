@@ -11,6 +11,7 @@ import net.minecraftforge.registries.RegisterEvent
 import net.minecraftforge.server.ServerLifecycleHooks
 import thedarkcolour.kotlinforforge.forge.MOD_BUS
 
+@Suppress("unused", "UNUSED_PARAMETER", "MemberVisibilityCanBePrivate")
 @Mod(ExampleMod.MOD_ID)
 class ExampleModForge : ExampleModImplementation {
     init {
